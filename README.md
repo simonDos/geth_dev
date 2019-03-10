@@ -1,4 +1,4 @@
-###Geth Dev Network
+### Geth Dev Network
 
 With these simple tools, you can start a local clique-based dev-chain.
 
@@ -11,7 +11,7 @@ This is the coinbase address of our test chain, it is the one that is authorized
 
 
 
-####Initialisation
+#### Initialisation
 
 With
 
@@ -26,7 +26,7 @@ We need this account for geth to mine to.
 
 
 
-####Start the Blockchain
+#### Start the Blockchain
 
 Use
 
@@ -39,14 +39,14 @@ The dev chain will ow await transactions.
 
 
 
-####Usage
+#### Usage
 
 You can use the seedphrase in ```dev_seed.txt``` to import the 3 prefilled accounts into any application and start using them.
 #
 
 
 
-#####Good to know
+##### Good to know
 
 The authorized signer address in this clique chain is set in the genesis file under "extraData"
 
