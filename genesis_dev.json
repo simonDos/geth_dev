@@ -37,8 +37,14 @@
 		},
 
 		"0x7ef5a6135f1fd6a02593eedc869c6d41d934aef8": {
-		"balance": "0x1"
+		"balance": "0x8AC7230489E800000"
 	  },
+		"ce1c37a1ed7aa1b0874126ee3d2cd6c8db7dd0cf": {
+			"balance": "0x8AC7230489E800000"
+		},
+		"fda85fed01a7cb0f378fcad14af136edec939e6f": {
+			"balance": "0x8AC7230489E800000"
+		},
 
 		"0000000000000000000000000000000000000000": {
 			"balance": "0x1"

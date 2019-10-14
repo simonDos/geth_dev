@@ -8,6 +8,6 @@ echo initialising new blockchain with genesis file
 
 geth --datadir=devChain init genesis_dev.json
 
-echo copying utc file to keystore
+echo copying utc files to keystore
 
-cp utc ./devChain/keystore/utc
+cp -rf keystore ./devChain/

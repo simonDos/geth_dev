@@ -25,7 +25,6 @@ We need this account for geth to mine to.
 #
 
 
-
 #### Start the Blockchain
 
 Use
